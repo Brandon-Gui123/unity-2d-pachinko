@@ -1,0 +1,20 @@
+== Credits ==
+
+-- Unity Packages --
+
+1. "2D Mega Pack" by "Brackeys" (https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430#description)
+   This is where most of the sprites used in the game come from.
+
+-- Audio --
+
+1. "429918__juan9826__17-golpepelota" by "juan9826" (https://freesound.org/people/juan9826/sounds/429918/)
+   I used Audacity to amplify the audio before importing it into Unity to make it easier to hear.
+
+2. "Click" from "2D Mega Pack" by "Brackeys" (https://assetstore.unity.com/packages/2d/free-2d-mega-pack-177430#description)
+
+3. "Ball Collected" comprises of 2 sound effects combined together:
+    * "Menu Click-Sparkle" by "Soughtaftersounds" (https://freesound.org/people/Soughtaftersounds/sounds/145459/)
+    * "Item Pickup" by "TreasureSounds" (https://freesound.org/people/TreasureSounds/sounds/332629/)
+
+    Both sound effects were amplified in Audacity to make it louder, and then I got Audacity to mix
+    it down to one file and export it.
